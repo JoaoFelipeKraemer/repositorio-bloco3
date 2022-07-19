@@ -24,6 +24,27 @@ main {
     border: 4px solid purple;
 }
 
+aside {
+    padding: 10px;
+    border: 4px solid purple;
+    height: 400px;
+    width: 500px;
+    padding: 20px;
+    position: absolute;
+    top: 190px;
+    left: 700px;
+}
+table, th, td  {
+    border: 1px solid springgreen;
+    border-collapse: collapse;
+
+}
+
+footer {
+    padding: 10px;
+    border: 4px solid aqua;
+}
+
 #nav li {
 list-style: none;
 display: inline-block;
